@@ -1,3 +1,3 @@
-@extends('admin.category.create')
+@extends('admin.news.show')
 
 
